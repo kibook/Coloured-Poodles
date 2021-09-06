@@ -9,3 +9,7 @@ Add to your resource
 Add start Coloured-Poodles to your server.cfg
 
 Enjoy =)
+
+__**Video Preview:**__
+
+https://www.youtube.com/watch?v=kY5PXWjstZE
