@@ -3,7 +3,7 @@ games { 'gta5' }
 
 authors { 'TayMcKenzieNZ', 'kibukj' }
 description 'Coloured Poodles For FiveM'
-version '2.0.0'
+version '3.0.0'
 url 'https://github.com/TayMcKenzieNZ/Coloured-Poodles'
 
 ---                                                                     ---
