@@ -9,7 +9,8 @@ You wouldn't be caught dead with a hat or purse that didn't match the colour of 
 | <img src="screenshots/g.jpg" width="250"> | <img src="screenshots/h.jpg" width="250"> | <img src="screenshots/i.jpg" width="250"> |
 | <img src="screenshots/j.jpg" width="250"> | <img src="screenshots/k.jpg" width="250"> | <img src="screenshots/l.jpg" width="250"> |
 | <img src="screenshots/m.jpg" width="250"> | <img src="screenshots/n.jpg" width="250"> | <img src="screenshots/o.jpg" width="250"> |
-| <img src="screenshots/p.jpg" width="250"> | <img src="screenshots/q.jpg" width="250"> | |
+| <img src="screenshots/p.jpg" width="250"> | <img src="screenshots/q.jpg" width="250"> | <img src="screenshots/r.jpg" width="250"> |
+| <img src="screenshots/s.jpg" width="250"> | <img src="screenshots/t.jpg" width="250"> | <img src="screenshots/u.jpg" width="250"> |
 
 _**Video Preview:**_
 
