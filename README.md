@@ -22,4 +22,18 @@ _**Video Preview:**_
 
 2. Add `start Coloured-Poodles` to your server.cfg
 
+# Regarding YMT files in FiveM
+
+Coloured Poodles has a modified .ymt file which allows for the Poodle to have more than one texture, because of this, it is important to know that if you have any custom add-on clothing in your server, you may run into game crashes.
+
+Depending on the GTA 5 game build/version you are running, the amount of add-on clothing packs you are able to strean, seems to be as following:
+
+- b1604 (mpchristmas2018 'Arena Wars') Default FiveM Game Build - 14 ymt files.
+- b2189 (mpheist4 'Cayo Perico) - 6 ymt files
+- b2372 (mptuner 'Tuners DLC') - 4 ymt files.
+
+Please take this into consideration before downloading and adding this to your server.
+
+
+
 Enjoy =)
